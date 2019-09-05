@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+arXiv:1109.6887
 # RB_2-qubit
 ## Installation
 
@@ -62,8 +62,3 @@ F(X_CROT):  0.9950645845697599
 F(Z_CROT):  0.9896792799268357
 F(CROT):  0.9896792799268357
 ```
-=======
-# RandomizedBenchmarking
-arXiv:1109.6887
->>>>>>> 6c61925d86567e0b1e35131514e567bd2758e5fa
-# RandomizedBenchmarking
